@@ -1,4 +1,4 @@
-# -Iqbalfachrian-backend-mock-technical-test
+backend-mock-technical-test
 
 Tata tertib assessment test
 1. Assessment test ini bertujuan untuk report kepada klien - klien binar dan menentukan
@@ -10,12 +10,23 @@ jawaban.
 penilaian.
 5. Selesai atau tidak, talent harus mengirimkan jawaban sesuai interval waktu yang telah
 ditentukan.
+
+
 Jawablah pertanyaan dibawah sesuai dengan instruksi!
 1. Disebutkan seorang client membutuhkan layanan aplikasi antar makanan. Dan Anda
 diminta untuk membuat desain sistem dengan kriteria pelanggan hanya dilayani
 dengan mobile apps.
 a. Desainlah stack backend dan micro service layanan tersebut beserta tools dan
 alasan mengapa memilih design dan tools tersebut.
+
+answers : 
+Diasumsikan stack backend menggunakan Windows OS, DBMS my SQL
+
+Desain stack backend[Backend mock test.pdf](https://github.com/Iqbalfachrian/-Iqbalfachrian-backend-mock-technical-test/files/9228175/Backend.mock.test.pdf)
+
+
+
+
 
 2. Bagaimana menangani keamanan dalam pengiriman data (backend dan mobile apps)
 pada sistem diatas.

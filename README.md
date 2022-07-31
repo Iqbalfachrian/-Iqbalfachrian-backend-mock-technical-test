@@ -36,15 +36,16 @@ Desain stack backend
 pada sistem diatas.
 a. Jelaskan solusi tersebut beserta alasannya.
 
-• Menggunakan HTTPS protokol untuk pertukaran data dari mobile apps ke back-end.
-• Autentikasi API dengan Jason web token (JWT)
-• Membatasi akses untuk role tertentu, seperti Admin untuk full akses sedangkan user hanya untuk beberapa fitur saja.
-• 
-
+- Menggunakan HTTPS protokol untuk pertukaran data dari mobile apps ke back-end.
+- Autentikasi API dengan Jason web token (JWT)
+- Membatasi akses untuk role tertentu, seperti Admin untuk full akses sedangkan user hanya untuk beberapa fitur saja.
 
 3. Buatlah sebuah service RESTFul API berdasarkan dokumentasi apiary berikut. Soal
 nomor 3 tidak ada hubungannya dengan soal nomor 1.
+
 https://testbinar.docs.apiary.io/. Boleh menggunakan bahasa apapun.
+
+
 a. Sertakan panduan cara instalasi tools, pengaturan database, penggunaan kode
 dan cara ujicoba kode dalam file Readme.md
 b. Sertakan tangkapan layar proses ujicoba API menggunakan postman.

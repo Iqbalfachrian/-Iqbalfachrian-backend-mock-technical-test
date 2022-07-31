@@ -22,8 +22,12 @@ alasan mengapa memilih design dan tools tersebut.
 answers : 
 Diasumsikan stack backend menggunakan Windows OS, DBMS my SQL
 
-Desain stack backend[Backend mock test.pdf](https://github.com/Iqbalfachrian/-Iqbalfachrian-backend-mock-technical-test/files/9228175/Backend.mock.test.pdf)
+Desain stack backend
 
+[Backend mock test.pdf]
+
+
+(https://github.com/Iqbalfachrian/-Iqbalfachrian-backend-mock-technical-test/files/9228175/Backend.mock.test.pdf)
 
 
 
@@ -31,6 +35,13 @@ Desain stack backend[Backend mock test.pdf](https://github.com/Iqbalfachrian/-Iq
 2. Bagaimana menangani keamanan dalam pengiriman data (backend dan mobile apps)
 pada sistem diatas.
 a. Jelaskan solusi tersebut beserta alasannya.
+
+• Menggunakan HTTPS protokol untuk pertukaran data dari mobile apps ke back-end.
+• Autentikasi API dengan Jason web token (JWT)
+• Membatasi akses untuk role tertentu, seperti Admin untuk full akses sedangkan user hanya untuk beberapa fitur saja.
+• 
+
+
 3. Buatlah sebuah service RESTFul API berdasarkan dokumentasi apiary berikut. Soal
 nomor 3 tidak ada hubungannya dengan soal nomor 1.
 https://testbinar.docs.apiary.io/. Boleh menggunakan bahasa apapun.
@@ -38,9 +49,11 @@ a. Sertakan panduan cara instalasi tools, pengaturan database, penggunaan kode
 dan cara ujicoba kode dalam file Readme.md
 b. Sertakan tangkapan layar proses ujicoba API menggunakan postman.
 c. Kode yang baik adalah kode yang bisa dibaca dan dipakai oleh orang lain.
+
+
 4. Dari dokumen https://testbinar.docs.apiary.io/, menurut anda, apakah ada desian API
 yang kurang maupun keliru? Jika ada, tuliskan kekurangan-kekurangan desain tersebut
 dan bagaimana seharusnya dokumentasi itu ditulis.
-Semua jawaban dan source code diupload ke akun github anda dan kirimkan url repo github ke
-kami melalui email. Pihak kami hanya menerima url dari github (gitlab maupuh bitbucket tidak
-kami terima).
+
+Answers : sudah sesuai.
+

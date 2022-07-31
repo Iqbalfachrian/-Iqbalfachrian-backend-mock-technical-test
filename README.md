@@ -51,9 +51,50 @@ b. Sertakan tangkapan layar proses ujicoba API menggunakan postman.
 c. Kode yang baik adalah kode yang bisa dibaca dan dipakai oleh orang lain.
 
 
+Answers : 
+
+- Install NodeJS, Postman (untuk test API), MySQL (di sini saya menggunakan XAMPP)
+- Buat direktori yang dibutuhkan 
+- Jika sudah selanjutnya install dependensi seperti Express, Sequelize, Passport JS dan bcrypt NodeJS
+- Selanjutnya adalah mempersiapkan aplikasi
+- Menyiapkan Sequelize dengan mySQL serta mengatur konfigurasi agar keduanya terhubung
+- Selanjutnya membuat user model dan menyiapkan Views
+- Lalu membuat config passport dan bcrypt 
+- Jika sudah, selanjutnya adalah meng-test konfigurasi yang kita buat di Postman
+- Selanjutnya jika sesuai maka akan muncul data yang ingin ditampilkan seperti screenshot yang terlampir di bawah :
+
+Login menggunakan JWT sebagai admin :
+
+![Admin-JWT](https://user-images.githubusercontent.com/101652940/182027964-e5c5d221-d471-43aa-b8d0-58371a988868.png)
+
+
+
+Login menggunakan JWT sebagai user :
+![User-JWT](https://user-images.githubusercontent.com/101652940/182027972-f4c9d070-a445-4e9b-b95c-39d7eeaa3f8b.png)
+
+
+
+
+
+
+
+
+
+
 4. Dari dokumen https://testbinar.docs.apiary.io/, menurut anda, apakah ada desian API
 yang kurang maupun keliru? Jika ada, tuliskan kekurangan-kekurangan desain tersebut
 dan bagaimana seharusnya dokumentasi itu ditulis.
 
 Answers : sudah sesuai.
+
+
+
+
+
+
+
+
+
+
+
 
